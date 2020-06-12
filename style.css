@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.hero {
+  background: #222f3e;
+  color: #ffffff;
+  padding: 50px 0 50px 0;
+  text-align: center;
+}
+
+section {
+  padding: 36px 0 36px 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+img {
+  display: inline-block;
+  max-width: 48%;
+}
+
+.info {
+  background: #c8d6e5;
+}
+
+a {
+  color: #ee5253;
+}
